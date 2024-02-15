@@ -51,7 +51,7 @@ for pelajar in data_pelajar:
 
     print(f'{KEY:<12} {NAMA:<26} {KELAS:^10} {MASUK:^10} {LULUS:^10} {PELAJAR:^11} {LAHIR:<10}')
 
-# contoh jadi
+# contoh jadi:
 
 # KEY                 NAMA                  KELAS       MASUK      LULUS      PELAJAR    LAHIR
 # ---------------------------------------------------------------------------------------------
